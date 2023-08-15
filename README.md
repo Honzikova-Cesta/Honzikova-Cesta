@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Honzikova-Cesta
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Django framework
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me www.linkedin.com/in/jan-procházka
 
 <!---
 Honzikova-Cesta/Honzikova-Cesta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
